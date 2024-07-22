@@ -8,8 +8,8 @@
     "start": "npx md README.md"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Trilitech",
+  "license": "MIT",
   "devDependencies": {
     "@taqueria/plugin-flextesa": "^0.56.0",
     "@taqueria/plugin-smartpy": "^0.56.0",
