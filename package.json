@@ -1,7 +1,7 @@
 {
   "name": "taqueria-getting-started-smartpy-scaffold",
   "version": "1.0.0",
-  "description": "This scaffold is a Taqueria project that provides the following: 1. Pre-installed plugins to get off the ground quickly (@taqueria/plugin-smartpy, @taqueria/plugin-taquito, @taqueria/plugin-flextesa) 2. An example contract called `IncDec.py` in the **contracts/** directory 3. A working Taqueria project configuration",
+  "description": "This scaffold is a Taqueria project that provides the following: 1. Pre-installed plugins to get off the ground quickly (@taqueria/plugin-smartpy, @taqueria/plugin-taquito, @taqueria/plugin-tezbox) 2. An example contract called `IncDec.py` in the **contracts/** directory 3. A working Taqueria project configuration",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,9 +11,9 @@
   "author": "Trilitech",
   "license": "MIT",
   "devDependencies": {
-    "@taqueria/plugin-flextesa": "^0.56.0",
-    "@taqueria/plugin-smartpy": "^0.56.0",
-    "@taqueria/plugin-taquito": "^0.56.0",
+    "@taqueria/plugin-tezbox": "latest",
+    "@taqueria/plugin-smartpy": "latest",
+    "@taqueria/plugin-taquito": "latest",
     "cli-markdown": "^3.2.2"
   }
 }

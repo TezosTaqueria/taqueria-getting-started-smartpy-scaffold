@@ -59,7 +59,7 @@
         },
         {
             "type": "npm",
-            "name": "@taqueria/plugin-flextesa"
+            "name": "@taqueria/plugin-tezbox"
         },
         {
             "type": "npm",
