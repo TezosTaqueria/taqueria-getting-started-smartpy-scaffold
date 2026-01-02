@@ -38,7 +38,7 @@
     "environmentDefault": "development",
     "environments": {
         "development": {
-            "type": "flextesa",
+            "type": "tezbox",
             "label": "Local Tezos Sandbox"
         },
         "testing": {
