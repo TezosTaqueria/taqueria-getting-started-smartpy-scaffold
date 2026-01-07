@@ -44,8 +44,8 @@
         },
         "testing": {
             "type": "simple",
-            "label": "ghostnet",
-            "rpcUrl": "https://ghostnet.ecadinfra.com"
+            "label": "shadownet",
+            "rpcUrl": "https://rpc.shadownet.teztnets.com"
         },
         "production": {
             "type": "simple",
