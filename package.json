@@ -11,9 +11,9 @@
   "author": "Trilitech",
   "license": "MIT",
   "devDependencies": {
-    "@taqueria/plugin-tezbox": "0.79.1",
-    "@taqueria/plugin-smartpy": "0.79.1",
-    "@taqueria/plugin-taquito": "0.79.1",
+    "@taqueria/plugin-tezbox": "0.81.0",
+    "@taqueria/plugin-smartpy": "0.81.0",
+    "@taqueria/plugin-taquito": "0.81.0",
     "cli-markdown": "^3.2.2"
   }
 }
